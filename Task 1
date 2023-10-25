@@ -1,4 +1,4 @@
- * The "Kamusta MundoApp class implements an application that
+ * The "Kamusta Mundo class implements an application that
  * simply prints "Kamusta Mundo!" to standard output.
  */
 class HelloWorldApp {
